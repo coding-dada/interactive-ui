@@ -5,7 +5,7 @@ import { Card } from "@/components/ui/card"
 import { Spotlight } from "@/components/ui/spotlight"
 import { useEffect, useState } from "react"
  
-export function SplineSceneBasic() {
+function SplineSceneBasic() {
   const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
