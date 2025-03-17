@@ -13,6 +13,7 @@ A modern, interactive UI component library built with Next.js, React, and Framer
 - **Smooth Animations**: Powered by Framer Motion for fluid transitions and effects
 
 ## Demo
+Check out the live demo: [Bento Gallery Demo](https://interactive-ui-cd.vercel.app/)
 
 The main demo showcases an interactive 3D robot model with a dynamic spotlight effect that follows the user's cursor, creating an engaging visual experience.
 
@@ -143,5 +144,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Special thanks to the Next.js and React communities
 
 ## Project Link
-[Open](https://interactive-ui-cd.vercel.app/)
 [https://github.com/abhishekabysm/glowing-effect](https://github.com/abhishekabysm/glowing-effect)
