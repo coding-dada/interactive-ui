@@ -126,7 +126,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Authors
 
 - **Abhishek** - [@abhishekabysm](https://github.com/abhishekabysm) - [Instagram: @abhishekabysm](https://instagram.com/abhishekabysm)
-- **Coding Tutor** - [@coding.tutor](https://github.com/coding.tutor) - [Instagram: @coding.tutor](https://instagram.com/coding.tutor)
+- **Coding Tutor** - [@coding.tutor](https://github.com/aditya-obj) - [Instagram: @coding.tutor](https://instagram.com/coding.tutor)
 
 ## License
 
@@ -143,5 +143,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Special thanks to the Next.js and React communities
 
 ## Project Link
-
+[Open](https://interactive-ui-cd.vercel.app/)
 [https://github.com/abhishekabysm/glowing-effect](https://github.com/abhishekabysm/glowing-effect)
